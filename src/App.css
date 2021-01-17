@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.display{
+border: solid 1px blue;
+}
+
+.nav-active{
+background-color: chartreuse;
+color: red;
+}
